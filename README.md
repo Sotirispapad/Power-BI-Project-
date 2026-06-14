@@ -1,7 +1,7 @@
 About Me
 
 Recent graduate of the Department of Digital Systems at the University of Thessaly with a strong interest in Data Analytics, Business Intelligence, and Data Visualization.
-My technical skills include SQL, Power BI, Excel, Git, and GitHub, along with experience gained through academic projects and a software development internship at PwC.
+My technical skills include SQL, Power BI, Excel, Git, and GitHub, along with experience gained through academic projects and a software development internship.
 This repository contains a collection of projects developed to demonstrate my analytical, technical, and problem-solving skills using real-world datasets.
 
 
