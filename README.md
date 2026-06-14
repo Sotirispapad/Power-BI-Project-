@@ -4,7 +4,6 @@ Recent graduate of the Department of Digital Systems at the University of Thessa
 My technical skills include SQL, Power BI, Excel, Git, and GitHub, along with experience gained through academic projects and a software development internship.
 This repository contains a collection of projects developed to demonstrate my analytical, technical, and problem-solving skills using real-world datasets.
 
-
 Projects
 ⚽ Football Analytics Dashboard
 
@@ -21,7 +20,6 @@ Git & GitHub
 Data Visualization
 Data Cleaning & Transformation
 Business Intelligence
-
 
 Goals 
 
