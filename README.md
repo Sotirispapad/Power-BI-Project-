@@ -10,17 +10,15 @@ Projects
 
 Power BI dashboard analyzing team and player performance in the Greek Super League.
 
-Skills: Power BI, DAX, Data Visualization, KPI Design
+Skills: Power BI, Data Visualization, KPI Design
 
 Technical Skills
 
 SQL
 Power BI
-DAX
 Excel
 Git & GitHub
 Data Visualization
-Data Modeling
 Data Cleaning & Transformation
 Business Intelligence
 
